@@ -1,0 +1,1 @@
+#This folder contains my notes from pathway "Javascript (Practioner) India L&D" on NEXT portal available on capgemini.
